@@ -1,0 +1,1206 @@
+[
+  {
+    "arrondissement": "Aubervilliers",
+    "latitude": 48.910739591375574,
+    "longitude": 2.381001197922404,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Boulogne-Billancourt",
+    "latitude": 48.83492373554233,
+    "longitude": 2.2406308198105607,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Bobigny",
+    "latitude": 48.907241006602995,
+    "longitude": 2.4466627352231165,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Charenton-le-Pont",
+    "latitude": 48.823318606259996,
+    "longitude": 2.4058189234193947,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Vincennes",
+    "latitude": 48.84728224080477,
+    "longitude": 2.4362137010806055,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Bagneux",
+    "latitude": 48.79702105058296,
+    "longitude": 2.312270259157995,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Vitry-sur-Seine",
+    "latitude": 48.78856978131531,
+    "longitude": 2.3928041334185566,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Créteil",
+    "latitude": 48.78357322981106,
+    "longitude": 2.457536040718331,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Villejuif",
+    "latitude": 48.79091412961593,
+    "longitude": 2.361583716703601,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Issy-les-Moulineaux",
+    "latitude": 48.8241686703982,
+    "longitude": 2.2655242942778773,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Argenteuil",
+    "latitude": 48.94779052455933,
+    "longitude": 2.242807255777806,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Asnières-sur-Seine",
+    "latitude": 48.915469562263006,
+    "longitude": 2.290485477680803,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Nanterre",
+    "latitude": 48.8929956304761,
+    "longitude": 2.2090994485092024,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Champigny-sur-Marne",
+    "latitude": 48.817946965465744,
+    "longitude": 2.5078573748125708,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Montreuil",
+    "latitude": 48.86075664795748,
+    "longitude": 2.4379702338694242,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Nogent-sur-Marne",
+    "latitude": 48.83585455528355,
+    "longitude": 2.483586892435502,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Le Pré-Saint-Gervais",
+    "latitude": 48.8853338192091,
+    "longitude": 2.4078145813853062,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Le Kremlin-Bicêtre",
+    "latitude": 48.811126269101614,
+    "longitude": 2.359313964843758,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Ivry-sur-Seine",
+    "latitude": 48.8138919295751,
+    "longitude": 2.386242217199632,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Pantin",
+    "latitude": 48.89716714859252,
+    "longitude": 2.4081247299078243,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Rueil-Malmaison",
+    "latitude": 48.87474098608689,
+    "longitude": 2.1847799121770235,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Malakoff",
+    "latitude": 48.81945980015803,
+    "longitude": 2.3020433077620166,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Levallois-Perret",
+    "latitude": 48.893327828388166,
+    "longitude": 2.2878801703493172,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Vanves",
+    "latitude": 48.82171431345048,
+    "longitude": 2.2894208190655,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Neuilly-sur-Seine",
+    "latitude": 48.88469415459622,
+    "longitude": 2.267713903763469,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Choisy-le-Roi",
+    "latitude": 48.76758510779692,
+    "longitude": 2.4083393812179437,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Saint-Denis",
+    "latitude": 48.92742663343053,
+    "longitude": 2.357858744899814,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Alfortville",
+    "latitude": 48.801566843457856,
+    "longitude": 2.422035698602648,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "La Courneuve",
+    "latitude": 48.92719422685667,
+    "longitude": 2.3914155547515,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Puteaux",
+    "latitude": 48.883139311261736,
+    "longitude": 2.240030316114091,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Saint-Mandé",
+    "latitude": 48.84126107948734,
+    "longitude": 2.418280538070361,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Arcueil",
+    "latitude": 48.80642003848464,
+    "longitude": 2.3317663781633295,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "La Garenne-Colombes",
+    "latitude": 48.907591799644194,
+    "longitude": 2.2448421453470533,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Colombes",
+    "latitude": 48.921504986291545,
+    "longitude": 2.246920144778286,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Suresnes",
+    "latitude": 48.86960224085198,
+    "longitude": 2.221320239162874,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Garches",
+    "latitude": 48.844587116454605,
+    "longitude": 2.18777829123576,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Bagnolet",
+    "latitude": 48.868578262268024,
+    "longitude": 2.419474781490851,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Fontenay-sous-Bois",
+    "latitude": 48.850873824412226,
+    "longitude": 2.4713615127411583,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Saint-Ouen-sur-Seine",
+    "latitude": 48.907695580651605,
+    "longitude": 2.334371081824578,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Sceaux",
+    "latitude": 48.781349275430834,
+    "longitude": 2.2910302703089998,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Les Lilas",
+    "latitude": 48.880024556088976,
+    "longitude": 2.4183701835163385,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Bourg-la-Reine",
+    "latitude": 48.778949695386906,
+    "longitude": 2.314436630707188,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Clichy",
+    "latitude": 48.90295528911043,
+    "longitude": 2.307324834914607,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Montrouge",
+    "latitude": 48.81565297301805,
+    "longitude": 2.3180615439749372,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Meudon",
+    "latitude": 48.8106718780591,
+    "longitude": 2.2361337791806246,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Sèvres",
+    "latitude": 48.82237552197236,
+    "longitude": 2.2117311401088258,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Saint-Cloud",
+    "latitude": 48.85212972125408,
+    "longitude": 2.219544441744995,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Cachan",
+    "latitude": 48.79003205492572,
+    "longitude": 2.33164733089149,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Fontenay-aux-Roses",
+    "latitude": 48.79113630377592,
+    "longitude": 2.2872599714282478,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Romainville",
+    "latitude": 48.8814625527214,
+    "longitude": 2.439162401943216,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Gentilly",
+    "latitude": 48.81335498578116,
+    "longitude": 2.3418669838352466,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Maisons-Alfort",
+    "latitude": 48.80502251373242,
+    "longitude": 2.436781103239848,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Saint-Maurice",
+    "latitude": 48.818453982638765,
+    "longitude": 2.4335912911806425,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Clamart",
+    "latitude": 48.7990088417526,
+    "longitude": 2.2589135356787495,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Thiais",
+    "latitude": 48.7616085724035,
+    "longitude": 2.39815236061945,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Gennevilliers",
+    "latitude": 48.929651571905104,
+    "longitude": 2.2981717358976397,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Courbevoie",
+    "latitude": 48.900450848176085,
+    "longitude": 2.260499945539382,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Joinville-le-Pont",
+    "latitude": 48.819970772485505,
+    "longitude": 2.4690916383384502,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Châtillon",
+    "latitude": 48.80359986093131,
+    "longitude": 2.2887187694035407,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Ville-d'Avray",
+    "latitude": 48.826073335699,
+    "longitude": 2.1894485725692,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Rosny-sous-Bois",
+    "latitude": 48.8728903200868,
+    "longitude": 2.490847064182167,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Noisy-le-Sec",
+    "latitude": 48.89994040289543,
+    "longitude": 2.4617817473939194,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Chaville",
+    "latitude": 48.80889642194803,
+    "longitude": 2.189528793096553,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Villeneuve-la-Garenne",
+    "latitude": 48.934296670484,
+    "longitude": 2.3283150821606333,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "L'Île-Saint-Denis",
+    "latitude": 48.935421446598,
+    "longitude": 2.3408389473018,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "Bois-Colombes",
+    "latitude": 48.9189893870885,
+    "longitude": 2.27003273514055,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "1er",
+    "latitude": 48.8625,
+    "longitude": 2.2875,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "2e",
+    "latitude": 48.8656,
+    "longitude": 2.3422,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "3e",
+    "latitude": 48.8684,
+    "longitude": 2.349,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "4e",
+    "latitude": 48.8606,
+    "longitude": 2.3622,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "5e",
+    "latitude": 48.8546,
+    "longitude": 2.375,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "6e",
+    "latitude": 48.8422,
+    "longitude": 2.35,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "7e",
+    "latitude": 48.835,
+    "longitude": 2.3211,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "8e",
+    "latitude": 48.8789,
+    "longitude": 2.3125,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "9e",
+    "latitude": 48.8764,
+    "longitude": 2.3311,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "10e",
+    "latitude": 48.8867,
+    "longitude": 2.3431,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "11e",
+    "latitude": 48.8719,
+    "longitude": 2.3667,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "12e",
+    "latitude": 48.8566,
+    "longitude": 2.3794,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "13e",
+    "latitude": 48.8244,
+    "longitude": 2.36,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "14e",
+    "latitude": 48.8281,
+    "longitude": 2.34,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "15e",
+    "latitude": 48.8325,
+    "longitude": 2.31,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "16e",
+    "latitude": 48.9019,
+    "longitude": 2.3083,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "17e",
+    "latitude": 48.895,
+    "longitude": 2.32,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "18e",
+    "latitude": 48.8861,
+    "longitude": 2.37,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "19e",
+    "latitude": 48.885,
+    "longitude": 2.4,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  },
+  {
+    "arrondissement": "20e",
+    "latitude": 48.8744,
+    "longitude": 2.41,
+    "weather": {
+      "time": "2025-11-04T04:00",
+      "interval": 900,
+      "temperature_2m": 10.1,
+      "is_day": 0,
+      "wind_speed_10m": 9.5,
+      "wind_direction_10m": 217,
+      "weather_code": 3
+    }
+  }
+]
