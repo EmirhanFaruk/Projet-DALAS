@@ -133,7 +133,7 @@ def fetch_weather_for_points():
         except Exception as e:
             print(f"EXCEPTION {label}: {e}", flush=True)
 
-    folder = "weather_data_json"
+    folder = "../data/00_raw/json/weather_data_json"
     os.makedirs(folder, exist_ok=True)
     filename = os.path.join(folder, f"weather_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
     with open(filename, "w", encoding="utf-8") as f:

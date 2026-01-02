@@ -141,7 +141,7 @@ def fetch_velib_data():
     data = r.json()
     stations = data.get("records", [])
 
-    folder = "velib_data_json"
+    folder = "../data/00_raw/json/velib_data_json"
     os.makedirs(folder, exist_ok=True)
     filename = os.path.join(folder, f"velib_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
 

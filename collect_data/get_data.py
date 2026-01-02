@@ -54,7 +54,7 @@ def get_data():
     correlated_coords = correlate_coords(velib_stations, weather_data)
     
     # saving correlated data
-    correlated_folder = "correlated_data_json"
+    correlated_folder = "../data/00_raw/json/correlated_data_json"
     os.makedirs(correlated_folder, exist_ok=True)
     correlated_filename = os.path.join(correlated_folder, f"correlated_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
     with open(correlated_filename, "w", encoding="utf-8") as f:
