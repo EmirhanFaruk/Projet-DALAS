@@ -14,23 +14,31 @@ RETRY_CODES = [
     504, # GATEWAY_TIMEOUT
 ]
 
+# https://api.open-meteo.com/v1/forecast?latitude=48.864716&longitude=2.349014&current=temperature_2m,is_day,wind_speed_10m,wind_direction_10m,weather_code
 
 def fetch_weather(lat, lon):
     try:
         url = (
-            "https://api.open-meteo.com/v1/forecast"
-            f"?latitude={lat}&longitude={lon}"
-            "&current=temperature_2m,is_day,wind_speed_10m,"
-            "wind_direction_10m,weather_code"
+            f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&current=temperature_2m,is_day,wind_speed_10m,wind_direction_10m,weather_code"
         )
         r = requests.get(url, timeout=10)
         r.raise_for_status()
-        return r.json()["current"]
+        current = r.json()["current"]
+        weather = {
+            "timestamp": current.get("time"),
+            "temperature": current.get("temperature_2m"),
+            "is_day": current.get("is_day"),
+            "wind_speed": current.get("wind_speed_10m"),
+            "wind_direction": current.get("wind_direction_10m"),
+            "weather_code": current.get("weather_code"),
+        }
+        return weather
+    
     except Exception as e:
         print("Weather fetch failed:", e)
         return None
     
-def fetch_velib_data():
+def fetch_velib_data(station_code):
     try:
         print("Fetching Velib data...", flush=True)
         r = requests.get(VELIB_URL)
@@ -48,5 +56,11 @@ def fetch_velib_data():
             raise
 
     data = r.json()
-    stations = data.get("records", [])
-    return stations
+    numbikes = -1
+    for record in data['records']:
+        fields = record['fields']
+        if fields['stationcode'] == station_code:
+            numbikes = fields['numbikesavailable']
+            break
+
+    return numbikes

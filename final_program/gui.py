@@ -72,8 +72,15 @@ class VelibApp(tk.Tk):
             return
 
         pred = predict_station(station_code, model_entry, when)
-        self.output.insert(tk.END, f"\nPrediction for {station_code} at {when}: {pred:.1f} bikes\n")
+
+        rounded = int(round(pred))
+        self.output.insert(
+            tk.END,
+            f"\nPrediction for {station_code} at {when}:\n"
+            f"  → {pred:.2f} bikes (≈ {rounded})\n"
+        )
         self.output.see(tk.END)
+
 
     def predict_now(self):
         now = datetime.now()
